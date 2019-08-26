@@ -1,0 +1,10 @@
+C:\repos\PrintingHW\PrintingHW\obj\Debug\netcoreapp2.1\PrintingHW.csproj.CoreCompileInputs.cache
+C:\repos\PrintingHW\PrintingHW\obj\Debug\netcoreapp2.1\PrintingHW.AssemblyInfoInputs.cache
+C:\repos\PrintingHW\PrintingHW\obj\Debug\netcoreapp2.1\PrintingHW.AssemblyInfo.cs
+C:\repos\PrintingHW\PrintingHW\bin\Debug\netcoreapp2.1\PrintingHW.deps.json
+C:\repos\PrintingHW\PrintingHW\bin\Debug\netcoreapp2.1\PrintingHW.runtimeconfig.json
+C:\repos\PrintingHW\PrintingHW\bin\Debug\netcoreapp2.1\PrintingHW.runtimeconfig.dev.json
+C:\repos\PrintingHW\PrintingHW\bin\Debug\netcoreapp2.1\PrintingHW.dll
+C:\repos\PrintingHW\PrintingHW\bin\Debug\netcoreapp2.1\PrintingHW.pdb
+C:\repos\PrintingHW\PrintingHW\obj\Debug\netcoreapp2.1\PrintingHW.dll
+C:\repos\PrintingHW\PrintingHW\obj\Debug\netcoreapp2.1\PrintingHW.pdb
