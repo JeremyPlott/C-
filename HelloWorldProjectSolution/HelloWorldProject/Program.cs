@@ -88,10 +88,35 @@ namespace HelloWorldProject {
 
             //looping with foreach()
             total = 0;
-            foreach(var score in scores) {
+            foreach(var score in scores) { //assign score variable
                 total += score;
             }
             Console.WriteLine("The grand total is " + total);
+
+
+            //floating point numbers
+            //float = 7 sig dig. double = 15 sig dig. decimal = 28 sig dig.
+
+            var distances = new double[] { 5.99, 3.56, 8.99, 7.47, 8.17, 6.78, 6.33 };
+            double distTotal = 0; //var ___ = 0.0 would be fewer keystrokes
+            foreach(var dist in distances) {
+                distTotal += dist;
+            }
+            Console.WriteLine("The total distance is " + distTotal);
+            Console.WriteLine("The average distance is " + (distTotal / distances.Length));
+
+
+            //arrays
+            int[] students = new int[5];
+            students[0] = 7;
+            students[1] = 3;
+            students[2] = 4;
+            students[3] = 15;
+            students[4] = 5;
+
+            string[] names = new string[7];
+            names[0] = "Jeremy";
+            names[1] = "Alex";
         }
     }
 }
