@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\PrintingHW\\PrintingHW\\PrintingHW.csproj",
+      "projectUniqueName": "C:\\repos\\CSharp\\PrintingHW\\PrintingHW\\PrintingHW.csproj",
       "projectName": "PrintingHW",
-      "projectPath": "C:\\repos\\PrintingHW\\PrintingHW\\PrintingHW.csproj",
+      "projectPath": "C:\\repos\\CSharp\\PrintingHW\\PrintingHW\\PrintingHW.csproj",
       "packagesPath": "C:\\Users\\MaxTech\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\PrintingHW\\PrintingHW\\obj\\",
+      "outputPath": "C:\\repos\\CSharp\\PrintingHW\\PrintingHW\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
