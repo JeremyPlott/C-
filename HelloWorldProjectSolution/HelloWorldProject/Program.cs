@@ -67,12 +67,24 @@ namespace HelloWorldProject {
             //cleaner code
             total = 0;
             avgscore = 0;
-            for (var entry = 0; entry < scores.Length; entry = entry + 1) {
-                total = total + scores[entry];
+            for (var entry = 0; entry < scores.Length; entry++) {
+                total += scores[entry];
             }
             avgscore = total / scores.Length;
 
             Console.WriteLine("The average score is " + avgscore);
+
+            //a += 1 is abbv. for a = a + 1.
+            //When adding or subtracting 1 it can be further shortened to a++ or a--.
+            //a++; and ++a; are the same when stand-alone statements. If ++a is on the right side of = it makes a difference.
+            
+            //var a = 0;
+            //var b = a++; This line assigns the value of b first and then increments a.
+            //var c = ++a; This line will increment a and then assign it to c. 
+
+            //b = 0, a = 1. for first 2 lines.
+            //add third line results in a = 2, c = 2. 
+            //
         }
     }
 }
